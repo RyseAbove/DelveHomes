@@ -61,13 +61,15 @@ nav.main-nav {
     justify-content: center;
 }
 
-.hero-content {          /*this needs to be fixed*/
+.hero-text {          
     background-color: black;
-    width: 30%;
+    width: 50%;
     color: white;
-    border-radius: 2rem;
-    padding: 2rem;
+    border-radius: 1rem;
+    padding: 2.5rem;
     box-shadow: 0 3px 5px black;
+    opacity: 65%;
+    text-align: center;
 }
 
 .main {
