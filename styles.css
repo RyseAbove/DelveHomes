@@ -43,12 +43,13 @@ nav.main-nav {
     font-size: 1.5rem;
     font-family: sans-serif;
     text-decoration: none;
-    transition: all 200ms ease;
+    transition: all 150ms ease;
+    border-radius: 10rem;
 }
 
 .main-nav a:hover {
-    background-color: blue;
-    color: yellow;
+    background-color: royalblue;
+    color:blanchedalmond;
 }
 
 .hero {
