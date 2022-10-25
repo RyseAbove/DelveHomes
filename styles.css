@@ -12,8 +12,9 @@ img {
 }
 
 header {
-    background-color: darkgrey;
+    background-color: slategray;
     color: whitesmoke;
+    border-radius: 1rem;        /*fix this*/
 }
 
 nav.main-nav {
@@ -44,11 +45,11 @@ nav.main-nav {
     font-family: sans-serif;
     text-decoration: none;
     transition: all 150ms ease;
-    border-radius: 10rem;
+    
 }
 
 .main-nav a:hover {
-    background-color: royalblue;
+    background-color: darkblue;
     color:blanchedalmond;
 }
 
