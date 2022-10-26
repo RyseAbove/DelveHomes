@@ -47,6 +47,9 @@ nav.main-nav {
     transition: all 150ms ease;
     margin: .5rem;
     border-radius: 1.5rem;
+    text-decoration: underline;
+    text-decoration-color: darkgrey;
+    font-weight: 600;
 }
 
 .main-nav a.current {
