@@ -138,3 +138,7 @@ hr {
     justify-content: space-between;
 }
 
+li.footer-nav-list {
+    padding: 20px;
+}
+
