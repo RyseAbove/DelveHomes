@@ -53,14 +53,14 @@ nav.main-nav {
     background-color:dimgray;
 }
 
-.main-nav a.logo:hover {        /*fix this*/
+.main-nav a.logo:hover {        
     background-color: lightsteelblue;
     border-radius: 3rem;
 }
 
 .main-nav a:hover:not(.logo) {
     background-color: darkblue;
-    color: ;                    /*change color*/
+    color: lightgrey;                   
 }
 
 .hero {
