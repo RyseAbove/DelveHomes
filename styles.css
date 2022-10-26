@@ -46,6 +46,11 @@ nav.main-nav {
     text-decoration: none;
     transition: all 150ms ease;
     margin: .5rem;
+    border-radius: 1.5rem;
+}
+
+.main-nav a.current {
+    background-color:dimgray;
 }
 
 .main-nav a.logo:hover {        /*fix this*/
@@ -55,8 +60,7 @@ nav.main-nav {
 
 .main-nav a:hover:not(.logo) {
     background-color: darkblue;
-    color: ;     /*change color*/
-    border-radius: 1.5rem;
+    color: ;                    /*change color*/
 }
 
 .hero {
@@ -90,3 +94,4 @@ nav.main-nav {
     padding-right: 5px;
     padding-bottom: 10px;
 }
+
