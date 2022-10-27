@@ -118,10 +118,11 @@ hr {
     height: 30px;
     margin-left: auto;
     margin-right: auto;
+    padding-bottom: none;
     background-color: black;
 }
 
-.footer {
+.footer-content {
     width: 100vw;
     background-color: slategrey;
     color: white;
