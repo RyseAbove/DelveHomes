@@ -42,7 +42,7 @@ nav.main-nav {
     width: 260px;
 }
 
-.main-nav a {
+.main-nav a  {
     display: inline-block;
     padding: 2.5rem;
     color: white;
@@ -117,7 +117,7 @@ hr {
 
 .footer {
     width: 100vw;
-    background-color: black;
+    background-color: slategrey;
     color: white;
     min-height: 300px;
 }
