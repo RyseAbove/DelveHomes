@@ -187,7 +187,11 @@ footer {
     color: whitesmoke;
 }
 
-section.one-half img {
+.one-half {
+    width: 45%;
+}
+
+.one-half img {
     padding-top: 100px;
 }
 
@@ -197,6 +201,9 @@ section.one-half img {
     width: 45%;
 }
 
-.second-half {
-    
+[class^=one-half] {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    min-height: 150px;
 }
