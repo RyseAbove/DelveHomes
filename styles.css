@@ -190,7 +190,7 @@ footer {
 }
 
 .one-half img {
-    padding-top: 100px;
+    padding-top: 35px;
 }
 
 div.first-image-half {
@@ -209,6 +209,5 @@ div.first-image-half {
 .p-one-half {
     margin-left: 15px;
     max-width: 20%;
-    border: solid 1.5px black;
 }
 
