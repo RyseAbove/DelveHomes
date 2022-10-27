@@ -88,6 +88,7 @@ section.one-half:hover img {
 .hero-text {          
     background-color: black;
     width:fit-content;
+    height: fit-content;
     color: white;
     border-radius: 1rem;
     padding: 2.5rem;
