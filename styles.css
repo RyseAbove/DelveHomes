@@ -192,15 +192,18 @@ footer {
     padding-top: 100px;
 }
 
-.chair {
-    border: solid 2px black;  
-    margin-top: 15px;
-    width: 45%;
-    max-width: 45%;
-    max-height: 10%;
+div.first-image-half {
+    max-height: 334.25px;
+    max-width: 334.25px;
 }
 
-.one-half {
-    margin-top: 5px;
-    min-height: 150px;
+.chair {
+    border: solid 2px black;  
+    margin-top: 15px;       
+    margin-left: 15px;
+}
+
+.p-one-half {
+    margin-left: 15px;
+    max-width: 20%;
 }
