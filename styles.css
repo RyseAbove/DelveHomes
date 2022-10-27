@@ -192,11 +192,12 @@ footer {
     padding-top: 100px;
 }
 
-.first-image-half {
-    border: solid 2.5px black;  /* fix space below img*/
+.chair {
+    border: solid 2px black;  
     margin-top: 15px;
     width: 45%;
-    margin-bottom: auto;
+    max-width: 45%;
+    max-height: 10%;
 }
 
 .one-half {
