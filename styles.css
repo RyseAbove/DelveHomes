@@ -188,11 +188,32 @@ footer {
     border: solid 4px black;  
 }
 
-.one-half p {
-    margin-left: 15px;
-    padding-top: 100px;
-    max-width: 450px;
-    align-items: right;
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
+.one-half p {
+    margin-left: 15px;
+    padding-top: 60px;
+    max-width: 450px;
+    align-items: right;
+    font-size: 25px;
+}
+
+.one-third {
+    width: 30%;
+}
+
+.content-1-one-third {
+    max-width: 300px;
+}
+
+.content-2-one-third {
+    max-width: 300px;
+    align-content: center;
+}
+
+.content-3-one-third {
+    max-width: 300px;
+}
