@@ -17,8 +17,14 @@ header {
 }
 
 main {
-    margin-left: 7px;
-    margin-right: 7px;
+    margin-left: 50px;
+    margin-right: 50px;
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1em;
 }
 
 nav.main-nav {
@@ -53,6 +59,7 @@ nav.main-nav {
     text-decoration: underline;
     text-decoration-color: darkgrey;
     font-weight: 600;
+    max-width: fit-content;
 }
 
 .main-nav a.current {
@@ -64,7 +71,7 @@ nav.main-nav {
     border-radius: 3rem;
 }
 
-section.one-half:hover img {        
+section.footer-one-half:hover img {        
     background-color: lightsteelblue;
     border-radius: 3rem;
     text-align: center;
@@ -97,17 +104,6 @@ section.one-half:hover img {
     text-align: center;
 }
 
-.main {
-    max-width: 1280px;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
 h1 {
     font-size: xx-large;
 }
@@ -117,7 +113,6 @@ hr {
     height: 30px;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: none;
     background-color: black;
 }
 
@@ -125,7 +120,6 @@ hr {
     width: 100vw;
     background-color: slategrey;
     color: white;
-    min-height: 300px;
     display: flex;
 }
 
@@ -187,28 +181,16 @@ footer {
 }
 
 .one-half {
-    width: 45%;
+    width: 48%;
 }
 
-.one-half img {
-    padding-top: 35px;
+.border {
+    border: solid 4px black;  
 }
 
-div.first-image-half {
-    max-height: 485px;
-    max-width: 475px;
-}
-
-.chair {
-    border: solid 2px black;  
-    margin-top: 15px; 
-    margin-bottom: 15px;      
+.one-half p {
     margin-left: 15px;
-    margin-right: 15px;
-}
-
-.p-one-half {
-    margin-left: 15px;
-    max-width: 20%;
+    max-width: 450px;
+    align-items: right;
 }
 
