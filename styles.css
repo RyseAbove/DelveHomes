@@ -190,7 +190,9 @@ footer {
 
 .one-half p {
     margin-left: 15px;
+    padding-top: 100px;
     max-width: 450px;
     align-items: right;
+    font-size: 20px;
 }
 
