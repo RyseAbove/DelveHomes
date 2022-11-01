@@ -192,6 +192,11 @@ p {
     font-size: 20px;
 }
 
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
 .one-half p {
     margin-left: 15px;
     padding-top: 60px;
@@ -218,5 +223,6 @@ p {
 }
 
 .founder-image {
-    border: 4px solid black;
+    border: solid 4px black;
+    margin-top: 16px;
 }
