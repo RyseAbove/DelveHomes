@@ -17,8 +17,7 @@ header {
 }
 
 main {
-    margin-left: 50px;
-    margin-right: 50px;
+
     max-width: 1280px;
     margin: 0 auto;
     display: flex;
@@ -207,6 +206,7 @@ p {
 
 .content-1-one-third {
     max-width: 300px;
+    justify-content: center;
 }
 
 .content-2-one-third {
