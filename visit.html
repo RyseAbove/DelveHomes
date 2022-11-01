@@ -31,6 +31,16 @@
 <main>
     <p>Want to come see what the homes are like? Just fill out this short form with your name, phone number, email, and address and you will receive a response email from us within 24-48 hours. Make sure to check the “spam” section of your email if you don't see it.
     </p>
+    <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+        <div class="row">
+            <label class="required" for="name">Your Name:</label><br>
+            <input id="name" class="input" name="name" type="text" value="" size="30"><br>
+            <span id="name_validation" class="error_message"></span>
+        </div>
+        <div class="row">
+            <label for="email"></label>
+        </div>
+    </form>
 </main>
 <footer>
     <hr>
