@@ -29,8 +29,11 @@
         </section>
 </header>
 <main>
+    <section class="content-01 one-half">
     <p>Want to come see what the homes are like? Just fill out this short form with your name, phone number, email, and address and you will receive a response email from us within 24-48 hours. Make sure to check the “spam” section of your email if you don't see it.
     </p>
+    </section>
+    <section class="content-02-one-third">
     <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
         <div class="row">
             <label class="required" for="name">Your Name:</label><br>
@@ -38,9 +41,23 @@
             <span id="name_validation" class="error_message"></span>
         </div>
         <div class="row">
-            <label for="email"></label>
+            <label class="required" for="email">Your Email:</label><br>
+            <input id="email" class="input" name="email" type="text" value="" size="30"><br>
+            <span id="email-verification" class="error_message"></span>
         </div>
+        <div class="row">
+            <label class="required" for="address">Your Address:</label><br>
+            <input id="address" class="input" name="address" type="text" value="" size="30"><br>
+            <span id="address_verification" class="error_message"></span>
+        </div>
+        <div class="row">
+            <label class="required" for="phone-number">Your Phone Number:</label><br>
+            <input id="phone-number" class="input" name="phone-number" type="text" value="" size="30"><br>
+            <span id="phone_number_verification" class="error_message"></span>
+        </div>
+        <input id="submit_button" type="submit" value="Send">
     </form>
+    </section>
 </main>
 <footer>
     <hr>
