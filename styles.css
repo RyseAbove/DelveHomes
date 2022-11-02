@@ -305,12 +305,12 @@ input[type=submit] {
     color: white;
     border-radius: 10px;
     font-size: 18px;
-    margin-left: 10px;
+    margin-left: 53px
 }
 
-.blueprint-one-half {
-    border: solid 4px black;
-    margin-top: 15px;
-    margin-bottom: 15px;
+section .blueprint-one-half {
     width: 48%;
+    border: solid 4px black;
+    margin-bottom: 20px;
+
 }
