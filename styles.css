@@ -307,3 +307,10 @@ input[type=submit] {
     font-size: 18px;
     margin-left: 10px;
 }
+
+.blueprint-one-half {
+    border: solid 4px black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 48%;
+}
