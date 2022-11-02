@@ -123,7 +123,7 @@ section.footer-one-half:hover img {
 
 .hero-visit {
     height: 75vh;
-    background-image: url(/images/visit-hero-image.jpg);
+    background-image: url(/images/visit-hero-image.png);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
