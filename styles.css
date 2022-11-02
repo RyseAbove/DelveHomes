@@ -81,7 +81,47 @@ section.footer-one-half:hover img {
     color: lightgrey;                   
 }
 
-.hero {
+.hero-index {
+    height: 75vh;
+    background-image: url(/images/hero-image.png);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-about {
+    height: 75vh;
+    background-image: url(/images/hero-image.png);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-experience {
+    height: 75vh;
+    background-image: url(/images/hero-image.png);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-amenities {
+    height: 75vh;
+    background-image: url(/images/hero-image.png);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-visit {
     height: 75vh;
     background-image: url(/images/hero-image.png);
     background-size: cover;
