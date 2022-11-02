@@ -103,7 +103,7 @@ section.footer-one-half:hover img {
 
 .hero-experience {
     height: 75vh;
-    background-image: url(/images/experience-hero-image.png);
+    background-image: url(/images/experience-image.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
