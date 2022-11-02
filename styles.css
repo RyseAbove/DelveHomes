@@ -81,7 +81,6 @@ section.footer-one-half:hover img {
     color: lightgrey;                   
 }
 
-<<<<<<< HEAD
 .hero-index {
     height: 75vh;
     background-image: url(/images/hero-image.png);
@@ -123,9 +122,6 @@ section.footer-one-half:hover img {
 }
 
 .hero-visit {
-=======
-.hero {
->>>>>>> 4fc42df7a470e19b15b43bc04e16572decc202e3
     height: 75vh;
     background-image: url(/images/visit-hero-image.png);
     background-size: cover;
