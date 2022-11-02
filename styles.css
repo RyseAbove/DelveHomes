@@ -93,7 +93,7 @@ section.footer-one-half:hover img {
 
 .hero-about {
     height: 75vh;
-    background-image: url(/images/hero-image.png);
+    background-image: url(/images/about-hero-image.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -103,7 +103,7 @@ section.footer-one-half:hover img {
 
 .hero-experience {
     height: 75vh;
-    background-image: url(/images/hero-image.png);
+    background-image: url(/images/experience-hero-image.png);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -113,7 +113,7 @@ section.footer-one-half:hover img {
 
 .hero-amenities {
     height: 75vh;
-    background-image: url(/images/hero-image.png);
+    background-image: url(/images/amenities-hero-image.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -123,7 +123,7 @@ section.footer-one-half:hover img {
 
 .hero-visit {
     height: 75vh;
-    background-image: url(/images/hero-image.png);
+    background-image: url(/images/visit-hero-image.jpg);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
