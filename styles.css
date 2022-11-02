@@ -81,47 +81,7 @@ section.footer-one-half:hover img {
     color: lightgrey;                   
 }
 
-.hero-index {
-    height: 75vh;
-    background-image: url(/images/hero-image.png);
-    background-size: cover;
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-about {
-    height: 75vh;
-    background-image: url(/images/about-hero-image.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-experience {
-    height: 75vh;
-    background-image: url(/images/experience-hero-image.png);
-    background-size: cover;
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-amenities {
-    height: 75vh;
-    background-image: url(/images/amenities-hero-image.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-visit {
+.hero {
     height: 75vh;
     background-image: url(/images/visit-hero-image.png);
     background-size: cover;
@@ -237,10 +197,6 @@ li {
     font-size: 18px;
 }
 
-form {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
 .one-half p {
     margin-left: 15px;
     padding-top: 60px;
@@ -271,38 +227,9 @@ form {
     margin-top: 16px;
 }
 
-#contact_form {
-    background-color: slategray;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border: solid 4px black;
+.content-1-one-half {
+    max-width: 300px
 }
 
-.row label {
-    color: #FFFFFF;
-    font-size: 18px;
-    margin-left: 10px;
-}
 
-input[type=text], textarea {
-    text-align: center;
-    border-radius: 10px;
-    margin: auto 0;
-    color: #FFFFFF;
-    margin-left: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 150px;
-}
 
-input[type=text] {
-    height: 25px;
-}
-
-input[type=submit] {
-    background-color: #ff7b25;
-    color: #FFFFFF;
-    border-radius: 10px;
-    font-size: 18px;
-    margin-left: 10px;
-}
