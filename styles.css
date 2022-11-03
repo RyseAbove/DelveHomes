@@ -321,3 +321,6 @@ section.one-half-column {
     flex-direction: column;
 }
 
+.welcome-to-future {
+    padding-top: 40px;
+}
