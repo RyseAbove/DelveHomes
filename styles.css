@@ -308,11 +308,12 @@ input[type=submit] {
     margin-left: 53px
 }
 
-section .blueprint-one-half {
-    width: 48%;
+.blueprint-one-half {
     border: solid 4px black;
-    margin-bottom: 20px;
+}
 
+.content-01-one-half {
+    flex-direction: column-reverse;
 }
 
 section.one-half-column {
