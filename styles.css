@@ -83,7 +83,7 @@ section.footer-one-half:hover img {
 
 .hero-index {
     height: 75vh;
-    background-image: url(/images/hero-image.png);
+    background-image: url(/images/index-hero-image.png);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
@@ -319,3 +319,4 @@ section.one-half-column {
     width: 48%;
     flex-direction: column;
 }
+
