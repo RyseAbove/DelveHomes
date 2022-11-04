@@ -19,6 +19,7 @@
 body {
     margin: 0;
     font-size: 16px;
+    background-color: rgba(234, 244, 252, 1);
 }
 
 img {
@@ -342,3 +343,4 @@ section.one-half-column {
 .welcome-to-future {
     padding-top: 40px;
 }
+
