@@ -195,8 +195,6 @@ li.footer-nav-list {
     background-color:dimgray;
 }
 
-
-
 .footer-nav a:hover:not(.logo) {
     background-color: darkblue;
     color: lightgrey;                   
