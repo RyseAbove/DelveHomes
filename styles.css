@@ -290,6 +290,7 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     border: solid 4px black;
+    margin-top: 80px;
 }
 
 .row label {
@@ -300,10 +301,6 @@ footer {
 
 .content-01-one-half {
     max-width: 48%;
-}
-
-.content-01-one-half img {
-    border: solid 4px black;
 }
 
 .content-02-one-half img {
