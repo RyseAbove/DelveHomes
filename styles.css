@@ -325,12 +325,15 @@ input[type=submit] {
     margin-left: 53px
 }
 
-.blueprint-one-half {
+.map-one-half {
     border: solid 4px black;
 }
 
-.content-01-one-half {
-    flex-direction: column-reverse;
+section.content-03-one-half {
+    max-width: 48%;
+    display: wrap;
+    flex-wrap: wrap;
+    float: right;
 }
 
 section.one-half-column {
