@@ -333,6 +333,7 @@ input[type=submit] {
 
 .map-one-half {
     border: solid 4px black;
+    width: 50%;
 }
 
 section.content-03-one-half {
@@ -353,4 +354,8 @@ section.one-half-column {
 
 .footer-one-half img {
     height: 350px;
+}
+
+.family-image {
+    border: solid 4px black;
 }
