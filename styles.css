@@ -262,7 +262,6 @@ footer {
     margin-left: 15px;
     padding-top: 60px;
     max-width: 450px;
-    align-items: right;
     font-size: 25px;
 }
 
@@ -301,8 +300,20 @@ footer {
     margin-left: 10px;
 }
 
-.content-1-one-half {
-    max-width: 300px
+.content-01-one-half {
+    max-width: 48%;
+}
+
+.content-01-one-half img {
+    border: solid 4px black;
+}
+
+.content-02-one-half img {
+    border: solid 4px black;
+}
+
+.content-02-one-half {
+    max-width: 48%;
 }
 
 input[type=text] {
