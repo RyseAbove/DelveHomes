@@ -376,3 +376,7 @@ section.one-half-column {
 .frank-thatcher,.jon-whitlock {
     font-weight: 1000;
 }
+
+.important-text {
+    font-weight: 600;
+}
