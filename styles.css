@@ -372,3 +372,7 @@ section.one-half-column {
     max-width: 28%;
     margin-top: 175px;
 }
+
+.frank-thatcher,.jon-whitlock {
+    font-weight: 1000;
+}
