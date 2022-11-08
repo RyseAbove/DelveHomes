@@ -367,3 +367,8 @@ section.one-half-column {
 .family-image {
     border: solid 4px black;
 }
+
+.founder-image-2 {
+    max-width: 28%;
+    margin-top: 175px;
+}
