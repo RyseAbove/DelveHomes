@@ -313,6 +313,10 @@ footer {
     max-width: 48%;
 }
 
+.form {
+    
+}
+
 input[type=text] {
     border-radius: 10px;
     margin: auto 0;
